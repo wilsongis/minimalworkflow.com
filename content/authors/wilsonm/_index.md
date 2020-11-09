@@ -29,7 +29,7 @@ education:
   - course: MS Geosciences
     institution: Murray State University
     year: 2003
-  - course: BSc in Geology
+  - course: BS in Geology
     institution: Kutztown University
     year: 1996
 
