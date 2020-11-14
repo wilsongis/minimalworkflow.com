@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Computer is Filled with Calories"
-subtitle: "My Efforts to Use Noom"
+title: "Template"
+subtitle: ""
 summary: ""
 authors: [wilsonm]
 tags: []
 categories: []
-date: 2019-08-07T20:36:12-0500
-lastmod: 2019-08-07T20:36:21-0500
+date: 
+lastmod: 
 featured: false
 draft: true
 
@@ -25,7 +25,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [health-and-wellbeing]
+projects: []
 ---
-
-My journey to better health continues. 
