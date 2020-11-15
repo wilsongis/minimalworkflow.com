@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [social media]
+projects: [social-media]
 ---
 
 I have used various social media platforms for many years. I have tried Facebook,     Reddit, Twitter, Mastodon?, Micro.blog, amd LinkedIn. For the most part, my main networks are Micro.blog and Twitter. I enjoy the people and post on Micro.blog and appreciate the ability to catch up on current happenings with twitter. Besides some early posts on twitter, I don't really feel like I have posted anything trollish. 
