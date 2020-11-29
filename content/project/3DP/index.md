@@ -5,7 +5,7 @@ title: "3D Printing"
 summary: "A compilation of my various 3DP projects"
 authors: [wilsonm]
 tags: []
-draft: true
+draft: false
 categories: [3D printing]
 date: 2020-11-29T11:20:53-05:00
 
