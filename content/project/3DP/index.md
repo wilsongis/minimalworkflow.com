@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Project Template"
-summary: ""
+title: "3D Printing"
+summary: "A compilation of my various 3DP projects"
 authors: [wilsonm]
 tags: []
 draft: true
-categories: []
-date: 2019-07-06T09:25:09-05:00
+categories: [3D printing]
+date: 2020-11-29T11:20:53-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,8 +16,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Sidewinder X1"
+  focal_point: "smart"
   preview_only: false
 
 # Custom links (optional).
@@ -40,3 +40,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+This is a compilation of my various 3DP projects. Because of my dissertation 3DP is my most recent hobby.
