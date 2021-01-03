@@ -6,7 +6,7 @@ subtitle: ""
 summary: "My Design for a PS3 Eye Camera Mount for the Artillery Sidewinder X1"
 authors: [wilsonm]
 tags: [sidewinder x1, designs]
-categories: [3D printing]
+categories: [3DP]
 date: 2020-11-29T11:19:32-05:00
 lastmod: 2020-11-29T11:19:36-05:00
 featured: true
